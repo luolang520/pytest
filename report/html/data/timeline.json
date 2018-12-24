@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MSI",
+    "children" : [ {
+      "name" : "22980-MainThread",
+      "children" : [ {
+        "name" : "Testlogin.test_b",
+        "uid" : "f333cb7dc009e670",
+        "parentUid" : "e7efbc2f160ed07028104edf2db30cdc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545639003263,
+          "stop" : 1545639003328,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Testlogin.test_a",
+        "uid" : "12f138257c4de7b3",
+        "parentUid" : "e7efbc2f160ed07028104edf2db30cdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545639003255,
+          "stop" : 1545639003262,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7efbc2f160ed07028104edf2db30cdc"
+    } ],
+    "uid" : "4e235fbd4c199973bc00f3dda2ae852d"
+  } ]
+}
